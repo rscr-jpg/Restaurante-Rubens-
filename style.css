@@ -1,0 +1,25 @@
+h1{
+font-family: Georgia, 'Times New Roman', Times, serif ;
+}
+
+li{
+ font-family: 'Times New Roman', Times, serif;
+}
+
+img{
+width: 150px;
+
+}
+
+td{
+    padding-left: 10px;
+}
+
+ol li{
+padding-top: 5px;
+
+}
+
+body{
+    background-color: rgb(252, 236, 216);
+}
